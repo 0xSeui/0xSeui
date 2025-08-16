@@ -1,16 +1,40 @@
-## Hi there 👋
+# ​ Hi there, I'm 0xSeui
 
-<!--
-**0xSeui/0xSeui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **C++ & Web Developer**  
+Passionate about building efficient code and creative web solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ​ Skills & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,php,git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codewars.svg" width="48" height="48" alt="Codewars"/>
+</p>
+
+---
+
+## ​ Featured Projects
+- 🔑 **Password Generator** – A tool to generate strong and secure passwords.  
+- 🎮 **Game Project** – A small game built with C++ showcasing logic & design.  
+- 🏦 **Bank System** – A system to manage accounts, transactions, and balance operations.  
+
+---
+
+## ​ Codewars (Small Badge)
+<p align="center">
+  <a href="https://www.codewars.com/users/0xSeui">
+    <img src="https://www.codewars.com/users/0xSeui/badges/small" alt="Codewars Badge"/>
+  </a>
+</p>
+
+---
+
+## ​ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xSeui&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSeui&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p>
+
+---
+
+✨ *"Code. Create. Swim through challenges."*
