@@ -8,7 +8,7 @@ Passionate about building efficient code and creative web solutions.
 ## ​ Skills & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,php,git,github,vscode"/>
-  <img src="https://github.com/codewars/branding/blob/master/dark-text-logo-origin.svg" width="48" height="48" alt="Codewars"/>
+  <img src="[https://github.com/codewars/branding/blob/master/dark-text-logo-origin.svg](https://raw.githubusercontent.com/codewars/branding/refs/heads/master/dark-text-logo-vertical.png)" width="48" height="48" alt="Codewars"/>
 </p>
 
 ---
