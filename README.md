@@ -28,3 +28,4 @@ Passionate about building efficient code and creative web solutions.
 
 
 ✨ *"Code. Create. Swim through challenges."*
+0xseui.tech
