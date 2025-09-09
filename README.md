@@ -27,7 +27,8 @@ Passionate about building efficient code and creative web solutions.
     <img src="https://www.codewars.com/users/0xSeui/badges/small" alt="Codewars Badge"/>
   </a>
 </p>
-[![Website](https://img.shields.io/badge/Website-Visit%20Here-blue)](https://0xseui.tech)
 
 ✨ *"Code. Create. Swim through challenges."*
 
+
+[![Website](https://img.shields.io/badge/Website-Visit%20Here-blue)](https://0xseui.tech)
