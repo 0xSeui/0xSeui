@@ -18,7 +18,6 @@ Passionate about building efficient code and creative web solutions.
 - 🏦 **Bank System** – A system to manage accounts, transactions, and balance operations.  
 
 ---
-[![Website](https://img.shields.io/badge/Website-Visit%20Here-blue)](https://0xseui.tech)
 
 
  
@@ -28,6 +27,8 @@ Passionate about building efficient code and creative web solutions.
     <img src="https://www.codewars.com/users/0xSeui/badges/small" alt="Codewars Badge"/>
   </a>
 </p>
-
+___
+[![Website](https://img.shields.io/badge/Website-Visit%20Here-blue)](https://0xseui.tech)
 
 ✨ *"Code. Create. Swim through challenges."*
+
